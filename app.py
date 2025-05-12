@@ -8,7 +8,7 @@ st.set_page_config(page_title="Thermodynamic Cycles Calculator", layout="centere
 st.markdown("""
     <style>
         .stApp {
-            background-color: #f0f8ff;
+            background-color: black;
             font-family: 'Segoe UI', sans-serif;
         }
         h1, h2 {
